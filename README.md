@@ -8,7 +8,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Low-Code-Workflow-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Low-Code-Workflow-Automation?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Low-Code-Workflow-Automation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Low-Code-Workflow-Automation?style=social" alt="GitHub_Stars" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0-1.0" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Low-Code-Workflow-Automation/blob/main/README.md#-how-to-contribute"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta200?label=Follow" /></a>
@@ -62,9 +62,9 @@ The table below summarizes leading commercial SaaS and hosted platforms, sorted 
 
 ## 🌐 Open-Source GitHub Projects
 
-The following open-source workflow automation systems, low-code internal tool builders, and orchestration engines are sorted in descending order by **GitHub Star Count**. ⭐ Each badge links directly to the repository's live stargazers.
+The following open-source workflow automation systems, low-code internal tool builders, and orchestration engines are sorted in descending order by **GitHub Stars_Count**. ⭐ Each badge links directly to the repository's live stargazers.
 
-| Project | GitHub Stars | Primary Language / Stack | License | Description & Architectural Highlights |
+| Project | GitHub_Stars | Primary Language / Stack | License | Description & Architectural Highlights |
 | :--- | :--- | :--- | :--- | :--- |
 | **[n8n](https://github.com/n8n-io/n8n)** ⚡ | [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) | TypeScript / Node.js | Fair-code (Sustainable Use License) | Top self-hosted Zapier/Make alternative. Features visual workflow builder, 400+ pre-built integrations, custom JavaScript/Python execution nodes, and native AI Agent nodes with MCP integration. |
 | **[Dify](https://github.com/langgenius/dify)** 🤖 | [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) | Python / TypeScript | Apache-2.0 | Production-ready LLM application and AI workflow development platform. Visual prompt engineering, RAG orchestration, multi-agent collaboration, and low-code flow builders. |
@@ -138,7 +138,7 @@ Your support keeps this directory active, accurate, and up-to-date with the fast
 Contributions are warmly encouraged! 🎉 To propose a new SaaS platform, open-source project, or factual correction:
 
 1. **Fork** this repository.
-2. Edit `README.md` to insert the project according to the proper section and sorting criteria (Descending by valuation for SaaS; Descending by GitHub star count with social badge for Open-Source).
+2. Edit `README.md` to insert the project according to the proper section and sorting criteria (Descending by valuation for SaaS; Descending by GitHub Stars_Count with social badge for Open-Source).
 3. Ensure entries adhere to objective, factual technical descriptions without promotional hyperbole.
 4. Open a **Pull Request** detailing your additions.
 
